@@ -1,1 +1,2 @@
 This is my first Git repository
+Hi I'm updating this file, thank you
